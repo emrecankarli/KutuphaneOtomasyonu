@@ -170,6 +170,7 @@
             groupBox1.TabIndex = 12;
             groupBox1.TabStop = false;
             groupBox1.Text = "Teslim Edilmeyen Kitaplar";
+            groupBox1.Enter += groupBox1_Enter_1;
             // 
             // dataGridView1
             // 

@@ -211,5 +211,10 @@ namespace KutuphaneUygulamasi
             textBox2.Text = "";
             maskedTextBox2.Text = "";
         }
+
+        private void groupBox1_Enter_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }
